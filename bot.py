@@ -13,9 +13,6 @@ import hashlib
 from typing import Tuple, Optional
 from os.path import join
 from datetime import datetime, timedelta
-
-import jiotv
-
 import psutil
 import pytz
 import yt_dlp
