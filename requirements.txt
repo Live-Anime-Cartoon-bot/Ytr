@@ -10,4 +10,4 @@ brotli
 hachoir
 pycryptodome
 python-dotenv
-ffmpeg
+ffmpeg-python
