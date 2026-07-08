@@ -115,13 +115,13 @@ BRAND_TITLE         = _environ.get("BRAND_TITLE",         "Anime Cartoon")
 TIMEZONE            = _environ.get("TIMEZONE",            "Asia/Kolkata")
 
 SUPPORT_USERNAME    = _environ.get("SUPPORT_USERNAME",    "LS_Owner_bot")
-SUPPORT_CHANNEL     = _environ.get("SUPPORT_CHANNEL",     "LittleSinghamChannel")
+SUPPORT_CHANNEL     = _environ.get("SUPPORT_CHANNEL",     "LS_Owner_bot")
 
 GROUP_CHAT_ID       = _parse_int("GROUP_CHAT_ID",  _environ.get("GROUP_CHAT_ID",  "0"))
 GROUP_INVITE_LINK   = _environ.get("GROUP_INVITE_LINK", "https://t.me/+ww77CDQwoigzYjk1")
 
 SHRINKME_API_KEY    = _environ.get("SHRINKME_API_KEY",    "")
-BOT_USERNAME        = _environ.get("BOT_USERNAME",        "M3u8LiveRecordingBot")
+BOT_USERNAME        = _environ.get("BOT_USERNAME",        "LittlesinghamMovie_Bot")
 
 GDRIVE_SA_JSON      = _environ.get("GDRIVE_SA_JSON",      "")
 GDRIVE_FOLDER_ID    = _environ.get("GDRIVE_FOLDER_ID",    "")
